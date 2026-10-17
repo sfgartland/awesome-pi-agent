@@ -140,7 +140,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 ## UI & Interaction
 
-- [better-pi-voice](https://github.com/sfgartland/better-pi-voice) — Streaming voice input biased with your repository's vocabulary; Deepgram or local Parakeet, from the cloud or fully local, with replay/salvage recovery.
+- [better-pi-voice](https://github.com/sfgartland/better-pi-voice) — Streaming voice input (Deepgram or local Parakeet) biased with your repo's vocabulary.
 - [pi-annotate](https://github.com/nicobailon/pi-annotate) — Visual feedback from browser to agent: click elements, add comments, fix code.
 - [pi-canvas](https://github.com/jyaunches/pi-canvas) — Interactive TUI canvases (calendar, document, flights) rendered inline.
 - [pi-design-deck](https://github.com/nicobailon/pi-design-deck) — Present multi-slide design options with high-fidelity previews.
